@@ -1,0 +1,3 @@
+[submodule "users/philipp"]
+	path = users/philipp
+	url = https://github.com/Philipekum/polypharmacy-philipp.git
