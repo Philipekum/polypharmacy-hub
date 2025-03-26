@@ -1,9 +1,12 @@
 [submodule "users/philipp"]
 	path = users/philipp
 	url = https://github.com/Philipekum/polypharmacy-philipp.git
+	branch = main
 [submodule "users/nikita"]
 	path = users/nikita
 	url = https://github.com/Emhyr713/polypharmacy-nikita.git
+	branch = main
 [submodule "users/dmitry"]
 	path = users/dmitry
 	url = https://github.com/KubrakovDmitry/polypharmacy-dmitry.git
+	branch = main
