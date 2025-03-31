@@ -10,3 +10,6 @@
 	path = users/dmitry
 	url = https://github.com/KubrakovDmitry/polypharmacy-dmitry.git
 	branch = main
+[submodule "users/polina"]
+	path = users/polina
+	url = https://github.com/PolinaWillow/polypharmacy-polina.git
