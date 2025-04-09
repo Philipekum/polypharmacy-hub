@@ -13,3 +13,6 @@
 [submodule "users/polina"]
 	path = users/polina
 	url = https://github.com/PolinaWillow/polypharmacy-polina.git
+[submodule "users/evgeniy"]
+	path = users/evgeniy
+	url = https://github.com/sok01/polypharmacy-evg.git
